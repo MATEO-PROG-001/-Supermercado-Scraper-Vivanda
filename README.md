@@ -79,7 +79,7 @@ El script genera automáticamente el archivo **`supermercado_alimentos.xlsx`** e
 
 ```
 .
-├── scraper.py                  # Script principal
+├── scraper.ipynb                  # Script principal
 ├── supermercado_alimentos.xlsx # Output generado (ignorado por git)
 └── README.md
 ```

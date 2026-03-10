@@ -68,7 +68,7 @@ pip install requests pandas openpyxl
 ## Uso
 
 ```bash
-python scraper.py
+python scraper.ipynb
 ```
 
 El script genera automáticamente el archivo **`supermercado_alimentos.xlsx`** en el directorio actual.
